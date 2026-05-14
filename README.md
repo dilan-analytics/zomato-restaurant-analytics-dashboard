@@ -41,6 +41,17 @@ This project analyzes restaurant data to understand ratings, cost distribution, 
 
 
 ---
+## 📓 Jupyter Notebook
+
+* notebooks/zomato_analysis.ipynb
+
+This notebook includes:
+
+* Data cleaning using Python
+* Handling missing values
+* Feature engineering
+* Exploratory data analysis (EDA)
+
 
 ## 📸 Dashboard Preview
 
